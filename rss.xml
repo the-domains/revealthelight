@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[revealthelight]]></title>
-        <description><![CDATA[revealthelight]]></description>
+        <title><![CDATA[Reveal the Light]]></title>
+        <description><![CDATA[Reveal the Light]]></description>
         <link>https://thegrid.ai/revealthelight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 16:19:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/revealthelight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7aee3d0-5614-4b05-b468-cfb8a8fe9bb0.jpg">]]></description>
+            <link>https://thegrid.ai/revealthelight/5c0dc8a4-76ed-4c26-94e5-fe0d9d003bdf/index.html</link>
+            <guid isPermaLink="false">5c0dc8a4-76ed-4c26-94e5-fe0d9d003bdf</guid>
+            <pubDate>Wed, 13 Apr 2016 16:19:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Head in the Sky]]></title>
             <description><![CDATA[<article><h1>Head in the Sky</h1><p>Colorado, USA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9571714e9811c8bcd6b9701d8060155128fdfccd.jpg"></article>]]></description>
