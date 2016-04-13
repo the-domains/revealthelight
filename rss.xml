@@ -4,21 +4,21 @@
         <description><![CDATA[revealthelight]]></description>
         <link>https://thegrid.ai/revealthelight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 16:08:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/revealthelight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Head in the Sky]]></title>
+            <description><![CDATA[<article><h1>Head in the Sky</h1><p>Colorado, USA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9571714e9811c8bcd6b9701d8060155128fdfccd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/revealthelight/d42383b3-6f76-4d9e-b34f-60d2f21c4426/index.html</link>
+            <guid isPermaLink="false">d42383b3-6f76-4d9e-b34f-60d2f21c4426</guid>
+            <pubDate>Wed, 13 Apr 2016 16:08:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dunes & Clouds]]></title>
             <description><![CDATA[<article><h1>Dunes & Clouds</h1><p>Colorado, USA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1e3e032b4952e8c2bee1e5e392c78e91e71f307.jpg"></article>]]></description>
             <link>https://thegrid.ai/revealthelight/992de7f5-04de-40a1-ac5b-22640c46b273/index.html</link>
             <guid isPermaLink="false">992de7f5-04de-40a1-ac5b-22640c46b273</guid>
             <pubDate>Wed, 13 Apr 2016 16:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clouds]]></title>
-            <description><![CDATA[<article><h1>Clouds</h1><p>Colorado, USA</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9571714e9811c8bcd6b9701d8060155128fdfccd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/revealthelight/d42383b3-6f76-4d9e-b34f-60d2f21c4426/index.html</link>
-            <guid isPermaLink="false">d42383b3-6f76-4d9e-b34f-60d2f21c4426</guid>
-            <pubDate>Wed, 13 Apr 2016 16:01:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
